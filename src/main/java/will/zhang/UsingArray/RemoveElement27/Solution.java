@@ -13,18 +13,15 @@ package will.zhang.UsingArray.RemoveElement27;
 public class Solution {
 
     public int removeElement(int[] nums, int val) {
-        //目标值存在个数
-        int nonTargetValue = 0;
+        //最后一个非目标元素的下标(也等同于非目标元素的个数)
+        int lastNonTargetValueIndex = 0;
 
-        int swapIndex = 0;
-
-        for (int i = nums.length - 1; i >= nonTargetValue; i--) {
-            if(nums[i] != val){
-                nonTargetValue++;
-                swap(nums, swapIndex++, i);
+        for (int i = 0; i < nums.length; i++) {
+            if(nums[i] != val && i != lastNonTargetValueIndex){
+                swap(nums, i, lastNonTargetValueIndex++);
             }
         }
-        return nonTargetValue;
+        return lastNonTargetValueIndex;
     }
 
     private void swap(int[] nums, int i, int j){
@@ -34,9 +31,9 @@ public class Solution {
     }
 
     public static void main(String[] args) {
-        int target = 5;
-        //int[] arr = {3, 2, 2, 3};
-        int arr[] = {3,3,5};
+        int target = 3;
+        int[] arr = {3, 2, 2, 3};
+        //int arr[] = {3,3,5};
 
         int length = new Solution().removeElement(arr, target);
 
