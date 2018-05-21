@@ -1,8 +1,6 @@
-package will.zhang.UsingHashTable.IntersectionOfTwoArrays349;
+package will.zhang.UsingSet.IntersectionOfTwoArrays349;
 
-import java.util.Arrays;
-import java.util.HashSet;
-import java.util.Set;
+import java.util.*;
 
 /**
  * @Author will
@@ -20,27 +18,26 @@ import java.util.Set;
 public class Solution {
 
     public int[] intersection(int[] nums1, int[] nums2) {
-        Set<Integer> record = new HashSet<>();
+        Set<Integer> set = new HashSet<>();
 
-        //把nums1所有元素都放进record这个set集合中
-        for (int i = 0; i < nums1.length; i++) {
-            record.add(nums1[i]);
+        //把nums1所有元素都放进set集合中
+        for (int i : nums1) {
+            set.add(i);
         }
 
         //把公共元素放进result中
-        Set<Integer> result = new HashSet<>();
-        for (int i = 0; i < nums2.length; i++) {
-            if(record.contains(nums2[i])){
-                result.add(nums2[i]);
+        List<Integer> list = new ArrayList<>();
+        for (int num : nums2) {
+            if(set.contains(num)){
+                list.add(num);
+                set.remove(num);
             }
         }
 
-        int[] resultArray = new int[result.size()];
-        int i = 0;
-        for (Integer integer : result) {
-            resultArray[i++] = integer;
+        int[] resultArray = new int[list.size()];
+        for (int i = 0; i < list.size(); i++) {
+            resultArray[i] = list.get(i);
         }
-
         return resultArray;
     }
 
