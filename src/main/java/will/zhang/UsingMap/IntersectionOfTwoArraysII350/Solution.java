@@ -1,4 +1,4 @@
-package will.zhang.UsingHashTable.IntersectionOfTwoArraysII350;
+package will.zhang.UsingMap.IntersectionOfTwoArraysII350;
 
 import java.util.*;
 
@@ -7,7 +7,7 @@ import java.util.*;
  * @Date 2018/4/13 0013 下午 2:06
  *
  * Leetcode 350号题目
- * 给定两个数组Nums, 求两个数组的交集
+ * 给定两个数组，写一个方法来计算它们的交集。
  * Example：
  * Given nums1 = [1, 2, 2, 1], nums2 = [2, 2], return [2, 2].
  *
@@ -20,18 +20,19 @@ public class Solution {
 
     public int[] intersect(int[] nums1, int[] nums2) {
 
-        Map<Integer, Integer> record = new HashMap<>();
+        Map<Integer, Integer> map = new HashMap<>();
         //把nums1中的元素作为Key, 出现频次作为value放进record中
-        for (int i = 0; i < nums1.length; i++) {
-            record.put(nums1[i], record.get(nums1[i]) == null ? 1 : record.get(nums1[i]) + 1);
+        for (int num : nums1) {
+            map.put(num, map.containsKey(num) ? map.get(num) + 1 : 1);
         }
+
 
         //判断nums2中的元素,如果在record中存在,则保存到list中
         List<Integer> list = new ArrayList<>();
         for (int num : nums2) {
-            if(record.containsKey(num) && record.get(num) > 0){
+            if(map.containsKey(num) && map.get(num) > 0){
                 list.add(num);
-                record.put(num, record.get(num) - 1);
+                map.put(num, map.get(num) - 1);
             }
         }
 
