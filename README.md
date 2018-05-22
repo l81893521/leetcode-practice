@@ -24,4 +24,7 @@
 ### 优先队列(PriorityQueue)
 [347. Top K Frequent Elements](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingPriorityQueue/TopKFrequentElements347/Solution.java)
 
+### 线段树(SegmentTree)
+[307. Range Sum Query - Mutable](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingSegmentTree/RangeSumQueryMutable307/NumArray.java))
+
 ### 其他
