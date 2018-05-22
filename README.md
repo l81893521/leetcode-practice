@@ -1,5 +1,8 @@
 # leetcode-practice
 
+### 数组
+[303. Range Sum Query - Immutable](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingArray/RangeSumQueryImmutable303/NumArray.java)
+
 ### 链表(LinkedList)
 [203. Remove Linked List Elements(Solution 1)](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingLinkedList/RemoveLinkedListElements203/Solution.java)
 
@@ -20,3 +23,5 @@
 
 ### 优先队列(PriorityQueue)
 [347. Top K Frequent Elements](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingPriorityQueue/TopKFrequentElements347/Solution.java)
+
+### 其他
