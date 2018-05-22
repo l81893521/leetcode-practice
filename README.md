@@ -27,4 +27,7 @@
 ### 线段树(SegmentTree)
 [307. Range Sum Query - Mutable](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingSegmentTree/RangeSumQueryMutable307/NumArray.java)
 
+### 字典树(又名前缀树)(Trie)
+[208. Implement Trie (Prefix Tree)](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingTrie/ImplementTriePrefixTree208/Trie.java)
+
 ### 其他
