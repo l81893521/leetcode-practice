@@ -32,4 +32,6 @@
 
 [211. Add and Search Word - Data structure design](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingTrie/AddAndSearchWordDataStructureDesign211/WordDictionary.java)
 
+[677. Map Sum Pairs](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingTrie/MapSumPairs677/MapSum.java)
+
 ### 其他
