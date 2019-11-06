@@ -1,6 +1,8 @@
 # leetcode-practice
 
 ### 数组
+[283. Move Zeroes - 移动零](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingArray/MoveZero283)
+
 [303. Range Sum Query - Immutable](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingArray/RangeSumQueryImmutable303/NumArray.java)
 
 ### 链表(LinkedList)
