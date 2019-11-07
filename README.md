@@ -1,6 +1,12 @@
 # leetcode-practice
 
 ### 数组
+[26. Remove Duplicates From Sorted Array - 删除排序数组中的重复项](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingArray/RemoveDuplicatesFromSortedArray26)
+
+[27. Remove Element - 移除元素](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingArray/RemoveElement27)
+
+[80. Remove Duplicates From Sorted Array II - 删除排序数组中的重复项II](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingArray/RemoveDuplicatesFromSortedArrayII80)
+
 [283. Move Zeroes - 移动零](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingArray/MoveZero283)
 
 [303. Range Sum Query - Immutable](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingArray/RangeSumQueryImmutable303/NumArray.java)
