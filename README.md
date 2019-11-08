@@ -1,15 +1,33 @@
 # leetcode-practice
 
 ### 数组
+[11. Container With Most Water - 盛水最多的容器](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingArray/ContainerWithMostWater11)
+
 [26. Remove Duplicates From Sorted Array - 删除排序数组中的重复项](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingArray/RemoveDuplicatesFromSortedArray26)
 
 [27. Remove Element - 移除元素](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingArray/RemoveElement27)
 
+[75. Sort colors - 颜色分类](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingArray/SortColors75)
+
 [80. Remove Duplicates From Sorted Array II - 删除排序数组中的重复项II](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingArray/RemoveDuplicatesFromSortedArrayII80)
+
+[88. Merge Sorted Array - 合并两个有序数组](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingArray/MergeSortedArray88)
+
+[125. Valid Palindrome - 验证回文串](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingArray/ValidPalindrome125)
+
+[167. Tow Sum II Input Array Is Sorted - 两数之和II(输入有序数组)](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingArray/TowSumII167)
+
+[209. Minimum Size Subarray Sum - 长度最小的子数组](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingArray/MinimumSizeSubarraySum209)
+
+[215. Kth Largest Element In An Array - 数组中的第K个最大元素](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingArray/KthLargetElementInAnArray215)
 
 [283. Move Zeroes - 移动零](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingArray/MoveZero283)
 
 [303. Range Sum Query - Immutable](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingArray/RangeSumQueryImmutable303/NumArray.java)
+
+[344. Reverse String - 反转字符串](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingArray/ReverseString344)
+
+[344. Reverse Vowels Of a String - 反转字符串中的元音字母](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingArray/ReverseVowelsOfAString345)
 
 ### 链表(LinkedList)
 [203. Remove Linked List Elements(Solution 1)](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingLinkedList/RemoveLinkedListElements203/Solution.java)
