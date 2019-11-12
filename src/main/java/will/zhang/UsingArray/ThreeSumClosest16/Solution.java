@@ -1,4 +1,4 @@
-package will.zhang.UsingHashTable.ThreeSumClosest16;
+package will.zhang.UsingArray.ThreeSumClosest16;
 
 import java.util.Arrays;
 import java.util.HashMap;

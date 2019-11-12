@@ -7,6 +7,8 @@
 
 [15. Three Sum - 三数之和](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingArray/ThreeSum15)
 
+[16. Three Sum - 最接近的三数之和](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingArray/ThreeSumClosest16)
+
 [18. Four Sum - 四数之和](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingArray/FourSum18)
 
 [26. Remove Duplicates From Sorted Array - 删除排序数组中的重复项](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingArray/RemoveDuplicatesFromSortedArray26)
