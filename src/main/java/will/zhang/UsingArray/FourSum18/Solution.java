@@ -1,4 +1,4 @@
-package will.zhang.UsingHashTable.FourSum18;
+package will.zhang.UsingArray.FourSum18;
 
 import java.util.*;
 
