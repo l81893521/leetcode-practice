@@ -1,4 +1,4 @@
-package will.zhang.UsingHashTable.SortCharactersByFrequency451;
+package will.zhang.UsingMap.SortCharactersByFrequency451;
 
 
 import java.util.*;

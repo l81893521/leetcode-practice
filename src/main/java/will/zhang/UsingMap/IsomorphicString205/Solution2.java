@@ -1,7 +1,4 @@
-package will.zhang.UsingHashTable.IsomorphicString205;
-
-import java.util.HashMap;
-import java.util.Map;
+package will.zhang.UsingMap.IsomorphicString205;
 
 /**
  * @Author will

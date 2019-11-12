@@ -1,4 +1,4 @@
-package will.zhang.UsingHashTable.WordPattern290;
+package will.zhang.UsingMap.WordPattern290;
 
 import java.util.HashMap;
 import java.util.Map;

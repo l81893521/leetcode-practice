@@ -1,4 +1,4 @@
-package will.zhang.UsingHashTable.ValidAnagram242;
+package will.zhang.UsingArray.ValidAnagram242;
 
 /**
  * @Author will

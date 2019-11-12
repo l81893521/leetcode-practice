@@ -1,4 +1,4 @@
-package will.zhang.UsingHashTable.TwoSum1;
+package will.zhang.UsingMap.TwoSum1;
 
 import java.util.Arrays;
 import java.util.HashMap;

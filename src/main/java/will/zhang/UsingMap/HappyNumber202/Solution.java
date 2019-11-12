@@ -1,9 +1,4 @@
-package will.zhang.UsingHashTable.HappyNumber202;
-
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.Map;
-import java.util.Set;
+package will.zhang.UsingMap.HappyNumber202;
 
 /**
  * @Author will
