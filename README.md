@@ -56,7 +56,10 @@
 ### 集合(Set)
 [804. Unique Morse Code Words](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingSet/UniqueMorseCodeWords804/Solution.java)
 
-### 映射(Map)
+### 树(Tree)
+[220. Contains Duplicate III - 存在重复元素III](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingTree/ContainsDuplicateIII220)
+
+### 哈希(Hash)
 [1. Two Sum - 两数之和](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingHash/TwoSum1)
 
 [49. Group Anagrams - 字母异位词分组](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingHash/GroupAnagrams49)
