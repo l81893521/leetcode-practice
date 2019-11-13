@@ -65,6 +65,8 @@
 
 [205. Isomorphic Strings - 同构字符串](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingHash/IsomorphicString205)
 
+[217. Contains Duplicate - 存在重复元素](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingHash/ContainsDuplicate217)
+
 [219. Contains Duplicate II - 存在重复元素II](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingHash/ContainsDuplicateII219)
 
 [290. Word Pattern - 单词规律](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingHash/WordPattern290)
