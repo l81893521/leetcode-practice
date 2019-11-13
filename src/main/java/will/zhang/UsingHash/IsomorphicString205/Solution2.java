@@ -1,4 +1,4 @@
-package will.zhang.UsingMap.IsomorphicString205;
+package will.zhang.UsingHash.IsomorphicString205;
 
 /**
  * @Author will

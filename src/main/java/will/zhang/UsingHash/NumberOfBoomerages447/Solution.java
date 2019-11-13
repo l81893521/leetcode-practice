@@ -1,4 +1,4 @@
-package will.zhang.UsingMap.NumberOfBoomerages447;
+package will.zhang.UsingHash.NumberOfBoomerages447;
 
 import java.util.HashMap;
 import java.util.Map;

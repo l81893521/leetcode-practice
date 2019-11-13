@@ -1,4 +1,4 @@
-package will.zhang.UsingMap.ContainsDuplicateII219;
+package will.zhang.UsingHash.ContainsDuplicateII219;
 
 import java.util.HashSet;
 

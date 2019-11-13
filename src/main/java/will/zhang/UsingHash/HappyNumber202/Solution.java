@@ -1,4 +1,4 @@
-package will.zhang.UsingMap.HappyNumber202;
+package will.zhang.UsingHash.HappyNumber202;
 
 /**
  * @Author will

@@ -1,4 +1,4 @@
-package will.zhang.UsingMap.GroupAnagrams49;
+package will.zhang.UsingHash.GroupAnagrams49;
 
 import java.util.ArrayList;
 import java.util.Arrays;

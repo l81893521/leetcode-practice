@@ -1,4 +1,4 @@
-package will.zhang.UsingMap.IntersectionOfTwoArraysII350;
+package will.zhang.UsingHash.IntersectionOfTwoArraysII350;
 
 import java.util.*;
 

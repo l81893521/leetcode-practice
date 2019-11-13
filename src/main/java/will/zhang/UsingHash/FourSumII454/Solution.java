@@ -1,4 +1,4 @@
-package will.zhang.UsingMap.FourSumII454;
+package will.zhang.UsingHash.FourSumII454;
 
 import java.util.HashMap;
 import java.util.Map;
