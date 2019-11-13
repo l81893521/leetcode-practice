@@ -71,6 +71,8 @@
 
 [350. Intersection of Two Arrays II - 两个数组的交集II](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingMap/IntersectionOfTwoArraysII350)
 
+[447. Number Of Boomerangs - 回旋镖的数量](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingMap/NumberOfBoomerages447)
+
 [451. Sort Characters By Frequency - 根据字符串出现频率排序](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingMap/SortCharactersByFrequency451)
 
 [454. Four Sum II - 四数相加II](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingMap/FourSumII454)
