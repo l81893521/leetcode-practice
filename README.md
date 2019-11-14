@@ -48,6 +48,8 @@
 
 [21. Merge Two Sorted Lists - 合并两个有序链表](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingLinkedList/MergeTwoSortedLists21)
 
+[24. Swap Nodes In Pairs - 两两交换链表中的节点](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingLinkedList/SwapNodesInPairs24)
+
 [82. Remove Duplicates From Sorted List II - 删除排序链表中的重复元素II](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingLinkedList/RemoveDuplicatesFromListII82)
 
 [83. Remove Duplicates From Sorted List - 删除排序链表中的重复元素](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingLinkedList/RemoveDuplicatesFromSortedList83)
