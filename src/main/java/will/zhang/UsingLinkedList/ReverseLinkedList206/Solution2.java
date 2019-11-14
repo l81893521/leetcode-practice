@@ -27,9 +27,9 @@ public class Solution2 {
         node4.next = node5;
 
         Solution2 solution = new Solution2();
-        ListNode reverNode = solution.reverseList(node1);
+        ListNode reverseNode = solution.reverseList(node1);
 
-        ListNode cur = reverNode;
+        ListNode cur = reverseNode;
         while (cur != null){
             System.out.println(cur.val);
             cur = cur.next;
