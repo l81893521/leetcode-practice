@@ -46,11 +46,13 @@
 ### 链表(LinkedList)
 [2. Add Two Numbers - 两数相加](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingLinkedList/AddTwoNumbers2)
 
+[82. Remove Duplicates From Sorted List II - 删除排序链表中的重复元素II](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingLinkedList/RemoveDuplicatesFromListII82)
+
 [83. Remove Duplicates From Sorted List - 删除排序链表中的重复元素](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingLinkedList/RemoveDuplicatesFromSortedList83)
 
 [86. Partition List - 分隔链表](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingLinkedList/PartionList86)
 
-[203. Remove Linked List Elements(Solution 1)](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingLinkedList/RemoveLinkedListElements203/Solution.java)
+[203. Remove Linked List Elements(Solution 1)](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingLinkedList/RemoveLinkedListElements203)
 
 [206. Reverse Linked List - 反转链表](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingLinkedList/ReverseLinkedList206)
 
