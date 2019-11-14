@@ -46,6 +46,8 @@
 ### 链表(LinkedList)
 [2. Add Two Numbers - 两数相加](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingLinkedList/AddTwoNumbers2)
 
+[21. Merge Two Sorted Lists - 合并两个有序链表](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingLinkedList/MergeTwoSortedLists21)
+
 [82. Remove Duplicates From Sorted List II - 删除排序链表中的重复元素II](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingLinkedList/RemoveDuplicatesFromListII82)
 
 [83. Remove Duplicates From Sorted List - 删除排序链表中的重复元素](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingLinkedList/RemoveDuplicatesFromSortedList83)
