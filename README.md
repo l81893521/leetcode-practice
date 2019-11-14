@@ -52,6 +52,8 @@
 
 [206. Reverse Linked List - 反转链表](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingLinkedList/ReverseLinkedList206)
 
+[328. Odd Even Linked List - 奇偶链表](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingLinkedList/OddEvenLinkedList328)
+
 ### 盏(Stack)
 [20. Valid Parentheses](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingStack/ValidParentheses20/Solution.java)
 
