@@ -46,6 +46,8 @@
 ### 链表(LinkedList)
 [83. Remove Duplicates From Sorted List - 删除排序链表中的重复元素](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingLinkedList/RemoveDuplicatesFromSortedList83)
 
+[86. Partition List - 分隔链表](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingLinkedList/PartionList86)
+
 [203. Remove Linked List Elements(Solution 1)](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingLinkedList/RemoveLinkedListElements203/Solution.java)
 
 [206. Reverse Linked List - 反转链表](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingLinkedList/ReverseLinkedList206)
