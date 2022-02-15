@@ -1,5 +1,9 @@
 # leetcode-practice
 
+### 剑指Offer
+
+[剑指 Offer 22. 链表中倒数第k个节点](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/SwordTowardsOffer/GetKthFromEnd22)
+
 ### 数组
 [3. Longest Substring Without Repeating Characters - 无重复字符的最长子串](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingArray/LongestSubstringWithoutRepeatingCharacters3)
 
