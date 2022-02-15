@@ -32,18 +32,11 @@ public class Solution {
     }
 
     public static void main(String[] args) {
-        int[] arr1 = new int[]{2, 3, 4};
-        int[] arr2 = new int[]{4, 5, 6};
-        ListNode node1 = ListNode.create(arr1);
-        ListNode node2 = ListNode.create(arr2);
+        ListNode node1 = ListNode.create(new int[]{2, 3, 4});
+        ListNode node2 = ListNode.create(new int[]{4, 5, 6});
 
         Solution solution = new Solution();
         ListNode listNode = solution.mergeTwoLists(node1, node2);
-
-        ListNode cur = listNode;
-        while (cur != null){
-            System.out.println(cur.val);
-            cur = cur.next;
-        }
+        System.out.println(listNode);
     }
 }
