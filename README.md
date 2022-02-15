@@ -48,6 +48,8 @@
 
 [21. Merge Two Sorted Lists - 合并两个有序链表](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingLinkedList/MergeTwoSortedLists21)
 
+[23. Merge K Sorted Lists - 合并K个升序链表](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingLinkedList/MergeKLists23)
+
 [24. Swap Nodes In Pairs - 两两交换链表中的节点](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingLinkedList/SwapNodesInPairs24)
 
 [25. Reverse Nodes In K Group - K个一个组翻转链表](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingLinkedList/ReverseNodesInKGroup25)
