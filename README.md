@@ -74,6 +74,8 @@
 
 [147. Insertion Sort List - 对链表进行插入排序](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingLinkedList/InsertionSortList147)
 
+[160. Intersection Of Two Linked Lists - 相交链表](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingLinkedList/IntersectionOfTwoLinkedLists160)
+
 [203. Remove Linked List Elements(Solution 1)](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingLinkedList/RemoveLinkedListElements203)
 
 [206. Reverse Linked List - 反转链表](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingLinkedList/ReverseLinkedList206)
