@@ -68,6 +68,10 @@
 
 [92. Reverse Linked List II - 翻转链表 II](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingLinkedList/ReverseLinkedListII92)
 
+[141. Linked List Cycle - 环形链表](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingLinkedList/LinkedListCycle141)
+
+[142. Linked List Cycle II - 环形链表 II](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingLinkedList/LinkedListCycleII142)
+
 [147. Insertion Sort List - 对链表进行插入排序](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingLinkedList/InsertionSortList147)
 
 [203. Remove Linked List Elements(Solution 1)](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingLinkedList/RemoveLinkedListElements203)
@@ -77,6 +81,8 @@
 [328. Odd Even Linked List - 奇偶链表](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingLinkedList/OddEvenLinkedList328)
 
 [445. Add Two Numbers II - 两数相加 II](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingLinkedList/AddTwoNumbersII445)
+
+[876. Middle Of The Linked List - 链表的中间结点](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingLinkedList/MiddleOfTheLinkedList876)
 
 ### 盏(Stack)
 [20. Valid Parentheses](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingStack/ValidParentheses20/Solution.java)
