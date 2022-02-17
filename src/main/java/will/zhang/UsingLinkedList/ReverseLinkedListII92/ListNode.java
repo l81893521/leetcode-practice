@@ -11,8 +11,7 @@ public class ListNode {
     }
 
     public static ListNode create(int[] array) {
-        ListNode
-            head = new ListNode(array[0]);
+        ListNode head = new ListNode(array[0]);
         ListNode listNode = head;
         for (int i = 1; i < array.length; i++) {
             listNode.next = new ListNode(array[i]);

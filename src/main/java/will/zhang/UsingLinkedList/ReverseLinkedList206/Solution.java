@@ -1,4 +1,7 @@
 package will.zhang.UsingLinkedList.ReverseLinkedList206;
+
+import will.zhang.util.ListNode;
+
 /**
   * @author will.zjw
   * @date 2019-11-13 19:58
@@ -22,18 +25,10 @@ public class Solution {
     }
 
     public static void main(String[] args) {
-        ListNode node1 = new ListNode(1);
-        ListNode node2 = new ListNode(2);
-        ListNode node3 = new ListNode(3);
-        ListNode node4 = new ListNode(4);
-        ListNode node5 = new ListNode(5);
-        node1.next = node2;
-        node2.next = node3;
-        node3.next = node4;
-        node4.next = node5;
 
-        Solution solution = new Solution();
-        ListNode reverNode = solution.reverseList(node1);
+        ListNode listNode = ListNode.create(new int[]{1, 2, 3, 4, 5});
+
+        ListNode reverNode = new Solution().reverseList(listNode);
 
         ListNode cur = reverNode;
         while (cur != null){
