@@ -20,14 +20,8 @@ public class Solution2 {
 
     public static void main(String[] args) {
         ListNode listNode = ListNode.create(new int[]{1, 2, 3, 4, 5});
-
         ListNode reverseNode = new Solution2().reverseList(listNode);
-
-        ListNode cur = reverseNode;
-        while (cur != null){
-            System.out.println(cur.val);
-            cur = cur.next;
-        }
+        System.out.println(reverseNode);
     }
 }
 

@@ -9,7 +9,9 @@ import will.zhang.util.ListNode;
 public class Solution {
 
     public ListNode reverseList(ListNode head) {
-
+        if (head == null) {
+            return null;
+        }
         ListNode pre = null;
         ListNode cur = head;
 
@@ -17,6 +19,8 @@ public class Solution {
             ListNode next = cur.next;
 
             cur.next = pre;
+
+            //pre and cur move forward
             pre = cur;
             cur = next;
 
@@ -27,14 +31,8 @@ public class Solution {
     public static void main(String[] args) {
 
         ListNode listNode = ListNode.create(new int[]{1, 2, 3, 4, 5});
-
         ListNode reverNode = new Solution().reverseList(listNode);
-
-        ListNode cur = reverNode;
-        while (cur != null){
-            System.out.println(cur.val);
-            cur = cur.next;
-        }
+        System.out.println(reverNode);
     }
 }
 
