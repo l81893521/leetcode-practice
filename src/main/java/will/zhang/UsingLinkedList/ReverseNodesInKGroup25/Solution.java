@@ -1,4 +1,7 @@
 package will.zhang.UsingLinkedList.ReverseNodesInKGroup25;
+
+import will.zhang.util.ListNode;
+
 /**
   * @author will.zjw
   * @date 2019-11-20 16:14
@@ -47,13 +50,7 @@ public class Solution {
         int[] arr1 = new int[]{1, 2, 3, 4, 5};
         ListNode listNode = ListNode.create(arr1);
 
-        Solution solution = new Solution();
-        listNode = solution.reverseKGroup(listNode, 2);
-
-        ListNode cur = listNode;
-        while (cur != null){
-            System.out.println(cur.val);
-            cur = cur.next;
-        }
+        listNode = new Solution().reverseKGroup(listNode, 2);
+        System.out.println(listNode);
     }
 }
