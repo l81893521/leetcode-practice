@@ -95,6 +95,8 @@
 [804. Unique Morse Code Words](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingSet/UniqueMorseCodeWords804/Solution.java)
 
 ### 树(Tree)
+[104. Maximum Depth Of BinaryTree - 二叉树的最大深度](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingTree/MaximumDepthOfBinaryTree104)
+
 [220. Contains Duplicate III - 存在重复元素III](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingTree/ContainsDuplicateIII220)
 
 ### 哈希(Hash)
