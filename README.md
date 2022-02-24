@@ -99,7 +99,13 @@
 
 [111. Minimum Depth Of Binary Tree - 二叉树的最小深度](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingTree/MinimumDepthOfBinaryTree111)
 
+[144. Binary Tree Preorder Traversal - 二叉树的前序遍历](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingTree/BinaryTreePreorderTraversal144)
+
 [220. Contains Duplicate III - 存在重复元素III](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingTree/ContainsDuplicateIII220)
+
+[543. Diameter Of Binary Tree - 二叉树的直径](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingTree/DiameterOfBinaryTree543)
+
+[669. Trim A Binary Search Tree - 修建二叉搜索树](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingTree/TrimABinarySearchTree669)
 
 ### 哈希(Hash)
 [1. Two Sum - 两数之和](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingHash/TwoSum1)
