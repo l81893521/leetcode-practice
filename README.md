@@ -2,6 +2,8 @@
 
 ### 剑指Offer
 
+[剑指 Offer 06. 从尾到头打印链表](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/SwordTowardsOffer/CongWeiDaoTouDaYinLianBiaoLcof06)
+
 [剑指 Offer 22. 链表中倒数第k个节点](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/SwordTowardsOffer/GetKthFromEnd22)
 
 ### 数组
