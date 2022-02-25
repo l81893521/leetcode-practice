@@ -101,9 +101,15 @@
 
 [111. Minimum Depth Of Binary Tree - 二叉树的最小深度](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingTree/MinimumDepthOfBinaryTree111)
 
+[116. Populating Next Right Pointers In Each Node - 填充每个节点的下一个右侧节点指针](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingTree/PopulatingNextRightPointersInEachNode116)
+
 [144. Binary Tree Preorder Traversal - 二叉树的前序遍历](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingTree/BinaryTreePreorderTraversal144)
 
 [220. Contains Duplicate III - 存在重复元素III](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingTree/ContainsDuplicateIII220)
+
+[226. Invert Binary Tree - 反转二叉树](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingTree/InvertBinaryTree226)
+
+[515. Find Largest Value In Each Tree Row - 在每个树行中找最大值](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingTree/FindLargestValueInEachTreeRow515)
 
 [543. Diameter Of Binary Tree - 二叉树的直径](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingTree/DiameterOfBinaryTree543)
 
