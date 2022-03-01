@@ -99,7 +99,11 @@
 ### 树(Tree)
 [104. Maximum Depth Of BinaryTree - 二叉树的最大深度](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingTree/MaximumDepthOfBinaryTree104)
 
+[105. Construct Binary Tree From Preorder And Inorder Traversal - 从前序与中序遍历序列构造二叉树](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingTree/ConstructBinaryTreeFromPreorderAndInorderTraversal105)
+
 [111. Minimum Depth Of Binary Tree - 二叉树的最小深度](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingTree/MinimumDepthOfBinaryTree111)
+
+[114. Flatten Binary Tree To Linked List - 二叉树展开为链表](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingTree/FlattenBinaryTreeToLinkedList114)
 
 [116. Populating Next Right Pointers In Each Node - 填充每个节点的下一个右侧节点指针](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingTree/PopulatingNextRightPointersInEachNode116)
 
@@ -112,6 +116,8 @@
 [515. Find Largest Value In Each Tree Row - 在每个树行中找最大值](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingTree/FindLargestValueInEachTreeRow515)
 
 [543. Diameter Of Binary Tree - 二叉树的直径](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingTree/DiameterOfBinaryTree543)
+
+[654. Maximum Binary Tree - 最大二叉树](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingTree/MaximumBinaryTree654)
 
 [669. Trim A Binary Search Tree - 修建二叉搜索树](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingTree/TrimABinarySearchTree669)
 
