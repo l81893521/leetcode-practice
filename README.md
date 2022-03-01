@@ -101,6 +101,8 @@
 
 [105. Construct Binary Tree From Preorder And Inorder Traversal - 从前序与中序遍历序列构造二叉树](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingTree/ConstructBinaryTreeFromPreorderAndInorderTraversal105)
 
+[106. Construct Binary Tree From Inorder And Postorder Traversal - 从中序与后序遍历序列构造二叉树](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingTree/ConstructBinaryTreeFromInorderAndPostorderTraversal106)
+
 [111. Minimum Depth Of Binary Tree - 二叉树的最小深度](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingTree/MinimumDepthOfBinaryTree111)
 
 [114. Flatten Binary Tree To Linked List - 二叉树展开为链表](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingTree/FlattenBinaryTreeToLinkedList114)
