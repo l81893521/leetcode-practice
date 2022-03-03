@@ -127,6 +127,8 @@
 
 [669. Trim A Binary Search Tree - 修建二叉搜索树](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingTree/TrimABinarySearchTree669)
 
+[701. Insert Into A Binary Search Tree - 二叉搜索树中的插入操作](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingTree/InsertIntoABinarySearchTree701)
+
 ### 哈希(Hash)
 [1. Two Sum - 两数之和](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingHash/TwoSum1)
 
