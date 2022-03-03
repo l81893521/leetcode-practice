@@ -115,7 +115,9 @@
 
 [226. Invert Binary Tree - 反转二叉树](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingTree/InvertBinaryTree226)
 
-[226. Kth Smallest Element In A Bst - 二叉搜索树中第K小的元素](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingTree/KthSmallestElementInABst230)
+[230. Kth Smallest Element In A Bst - 二叉搜索树中第K小的元素](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingTree/KthSmallestElementInABst230)
+
+[450. Delete Node In A Bst - 删除二叉搜索树中的节点](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingTree/DeleteNodeInABst450)
 
 [515. Find Largest Value In Each Tree Row - 在每个树行中找最大值](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingTree/FindLargestValueInEachTreeRow515)
 
