@@ -121,6 +121,8 @@
 
 [515. Find Largest Value In Each Tree Row - 在每个树行中找最大值](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingTree/FindLargestValueInEachTreeRow515)
 
+[538. Convert Bst To Greater Tree - 把二叉搜索树转换为累加树](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingTree/ConvertBstToGreaterTree538)
+
 [543. Diameter Of Binary Tree - 二叉树的直径](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingTree/DiameterOfBinaryTree543)
 
 [654. Maximum Binary Tree - 最大二叉树](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingTree/MaximumBinaryTree654)
@@ -128,6 +130,8 @@
 [669. Trim A Binary Search Tree - 修建二叉搜索树](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingTree/TrimABinarySearchTree669)
 
 [701. Insert Into A Binary Search Tree - 二叉搜索树中的插入操作](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingTree/InsertIntoABinarySearchTree701)
+
+[700. Search In A Binary Search Tree - 二叉搜索树中的搜索](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingTree/SearchInABinarySearchTree700)
 
 ### 哈希(Hash)
 [1. Two Sum - 两数之和](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingHash/TwoSum1)
