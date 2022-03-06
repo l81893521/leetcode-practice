@@ -133,6 +133,8 @@
 
 [700. Search In A Binary Search Tree - 二叉搜索树中的搜索](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingTree/SearchInABinarySearchTree700)
 
+[1038. Binary Search Tree To Greater Sum Tree - 从二叉搜索树到更大和树](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingTree/BinarySearchTreeToGreaterSumTree1038)
+
 ### 哈希(Hash)
 [1. Two Sum - 两数之和](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingHash/TwoSum1)
 
