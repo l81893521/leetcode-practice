@@ -62,6 +62,8 @@
 
 [25. Reverse Nodes In K Group - K个一个组翻转链表](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingLinkedList/ReverseNodesInKGroup25)
 
+[61. Rotate List - 旋转链表](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingLinkedList/RotateList61)
+
 [82. Remove Duplicates From Sorted List II - 删除排序链表中的重复元素II](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingLinkedList/RemoveDuplicatesFromListII82)
 
 [83. Remove Duplicates From Sorted List - 删除排序链表中的重复元素](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingLinkedList/RemoveDuplicatesFromSortedList83)
