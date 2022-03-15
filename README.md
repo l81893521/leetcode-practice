@@ -101,9 +101,10 @@
 [804. Unique Morse Code Words](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingSet/UniqueMorseCodeWords804/Solution.java)
 
 ### 树(Tree)
-[98. Validate Binary Search Tree - 验证二叉搜索树](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingTree/ValidateBinarySearchTree98)
 
-[101. Symmetric Tree - 对称二叉树](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingTree/SymmetricTree101)
+[100. Same Tree - 对称二叉树](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingTree/SameTree100)
+
+[101. Symmetric Tree - 相同的树](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingTree/SymmetricTree101)
 
 [102. Binary Tree Level Order Traversal - 二叉树的层序遍历](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingTree/BinaryTreeLevelOrderTraversal102)
 
