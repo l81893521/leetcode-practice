@@ -1,26 +1,10 @@
 package will.zhang.UsingLinkedList.SwapNodesInPairs24;
-    /**
+
+import will.zhang.util.ListNode;
+
+/**
   * @author will.zjw
   * @date 2019-11-14 20:25
-  *            佛主保佑,不要出BUG
-  *                 _ooOoo_
-  *                o8888888o
-  *                88" . "88
-  *                (| -_- |)
-  *                O\  =  /O
-  *             ____/`---'\____
-  *           .'  \\|     |//  `.
-  *          /  \\|||  :  |||//  \
-  *         /  _||||| -:- |||||-  \
-  *         |   | \\\  -  /// |   |
-  *         | \_|  ''\---/''  |   |
-  *          \  .-\__  `-`  ___/-. /
-  *        ___`. .'  /--.--\  `. . __
-  *      ."" '<  `.___\_<|>_/___.'  >'"".
-  *    | | :  `- \`.;`\ _ /`;.`/ - ` : | |
-  *    \  \ `-.   \_ __\ /__ _/   .-` /  /
-  * ======`-.____`-.___\_____/___.-`____.-'======
-  *                 `=---='
   */
 public class Solution {
 
@@ -48,13 +32,7 @@ public class Solution {
         int[] arr1 = new int[]{2, 4, 3, 5};
         ListNode node1 = ListNode.create(arr1);
 
-        Solution solution = new Solution();
-        ListNode listNode = solution.swapPairs(node1);
-
-        ListNode cur = listNode;
-        while (cur != null){
-            System.out.println(cur.val);
-            cur = cur.next;
-        }
+        ListNode listNode = new Solution().swapPairs(node1);
+        System.out.println(listNode);
     }
 }
