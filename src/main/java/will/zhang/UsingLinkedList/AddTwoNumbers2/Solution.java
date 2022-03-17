@@ -1,4 +1,7 @@
 package will.zhang.UsingLinkedList.AddTwoNumbers2;
+
+import will.zhang.util.ListNode;
+
 /**
   * @author will.zjw
   * @date 2019-11-14 17:06
@@ -44,18 +47,10 @@ public class Solution {
     }
 
     public static void main(String[] args) {
-        int[] arr1 = new int[]{2, 4, 3};
-        int[] arr2 = new int[]{5, 6, 4};
-        ListNode node1 = ListNode.create(arr1);
-        ListNode node2 = ListNode.create(arr2);
+        ListNode node1 = ListNode.create(new int[]{2, 4, 3});
+        ListNode node2 = ListNode.create(new int[]{5, 6, 4});
 
-        Solution solution = new Solution();
-        ListNode listNode = solution.addTwoNumbers(node1, node2);
-
-        ListNode cur = listNode;
-        while (cur != null){
-            System.out.println(cur.val);
-            cur = cur.next;
-        }
+        ListNode listNode = new Solution().addTwoNumbers(node1, node2);
+        System.out.println(listNode);
     }
 }
