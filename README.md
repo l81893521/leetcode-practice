@@ -43,6 +43,8 @@
 
 [303. Range Sum Query - Immutable](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingArray/RangeSumQueryImmutable303/NumArray.java)
 
+[304. Range Sum Query 2d Immutable - 二维区域和检索 - 矩阵不可变](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingArray/RangeSumQuery2dImmutable304)
+
 [344. Reverse String - 反转字符串](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingArray/ReverseString344)
 
 [344. Reverse Vowels Of a String - 反转字符串中的元音字母](https://github.com/l81893521/leetcode-practice/blob/master/src/main/java/will/zhang/UsingArray/ReverseVowelsOfAString345)
